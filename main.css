@@ -149,3 +149,26 @@ h3, .bk7 {
 .ad2 {
     margin-left: 50%;
 }
+
+#page-title {
+    font-weight: bold;
+}
+
+.pagenum {
+    position: absolute;
+    right: 10px;
+    font-size: small;
+}
+
+p {
+    text-align: justify;
+    margin: 0.75em auto;
+}
+
+pre {
+    margin: 100px 20%;
+}
+
+a: {
+    text-decoration: none;
+}
